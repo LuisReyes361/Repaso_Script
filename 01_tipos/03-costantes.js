@@ -1,4 +1,6 @@
 let nombre = "hola mundo";
 
+const luis = "holis";
 
-console.log(nombre)
+
+console.log(nombre);

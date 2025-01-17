@@ -8,4 +8,5 @@ let nombreCompleto;
 let nombre_completo;
 
 
-console.log(nombre)
+console.log(nombre);
+console.log(NombreCompleto);

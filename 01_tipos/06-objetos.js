@@ -14,6 +14,12 @@ let personaje = {
 
 };
 
+let objetor = {
+
+}
+
+console.log(objetor);
+
 console.log (personaje);
 console.log (personaje.nombre);
 console.log (personaje['edad']);
@@ -29,3 +35,5 @@ console.log(personaje);
 
 let personas = [`luis`,'mario'];
 console.log(personas)
+
+console.log (typeof personas);
